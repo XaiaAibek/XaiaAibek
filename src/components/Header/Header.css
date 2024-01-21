@@ -1,0 +1,33 @@
+.layout {
+  display: flex;
+  justify-content: space-between;
+  gap: 50px;
+}
+
+.menu {
+  width: 100%;
+}
+
+#menuItems {
+  width: 100%;
+
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 30px;
+}
+
+.menu {
+  width: 100%;
+}
+
+.menuItems {
+  width: 100%;
+
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 30px;
+}

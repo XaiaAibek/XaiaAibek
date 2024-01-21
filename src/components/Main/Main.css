@@ -1,0 +1,15 @@
+.layout {
+  display: flex;
+  justify-content: space-between;
+  gap: 50px;
+}
+
+.your_order {
+  width: 100%;
+}
+
+.orderList {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
